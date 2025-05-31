@@ -5,7 +5,7 @@ el juego ya esta listo para su ejecucion
 
 el remake del juego se realizo desde godot 4 desde cero
 y se subio a itch.io donde se podra descargar y jugar
-
+el juego se podra descargar y jugar desde este link: https://jaoc-1303.itch.io/seaquest-remake
 
 # Integrantes:
  Kevin Beroes
